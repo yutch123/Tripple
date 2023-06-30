@@ -14,7 +14,7 @@ int main()
 }
 int tripple(int number)
 {
-	return (number = 3); // вывод чсила 5 три раза
+	return (number * 3); // вывод чсила 5 три раза
 }
 string tripple(string text)
 {
